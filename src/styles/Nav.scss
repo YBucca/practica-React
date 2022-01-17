@@ -1,0 +1,15 @@
+nav{
+  width: 100%;
+  background-color: greenyellow;
+  padding: 10px;
+  display: flex;
+  justify-content: flex-end;
+  ul{
+    display: flex;
+    li{
+      padding: 5px;
+     margin: 14px;
+     font-size: 20px;
+    }
+  }
+}
